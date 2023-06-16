@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wojciech Glogowski</h1>
 <h3 align="center">A passionate developer from Poland</h3>
+<img align="right" alt="Knight Roland" width="400" src="https://media.giphy.com/media/qmzPu0S1JMIXNpIlcS/giphy.gif">
 
 - 🔭 I’m currently working on [Knight Roland](https://play.google.com/store/apps/details?id=com.WDDWSTUDIO.KnightRoland&gl=PL)
 
