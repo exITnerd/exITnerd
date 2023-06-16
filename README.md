@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://exitnerd.eu/](https://exitnerd.eu/)
 
-- 📝 I regularly write articles on [https://exitnerd.eu/blog](https://exitnerd.eu/blog)
-
 - 💬 Ask me about **HTML, CSS, CMS (Wordpress)**
 
 - 📫 How to reach me **exitnerd@gmail.com**
