@@ -34,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=exitnerd&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="exitnerd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exitnerd&show_icons=true&theme=tokyonight&locale=en" alt="exitnerd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exitnerd&theme=dark" alt="exitnerd" /></p>
