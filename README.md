@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wojciech Glogowski</h1>
 <h3 align="center">A passionate developer from Poland</h3>
-<img align="right" alt="Knight Roland" width="400" src="<iframe src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcwNGI1OWU4ZDRiMzBjMGU3YzkyZjljZGVmMjA1ZDczZWI4YjVhZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qmzPu0S1JMIXNpIlcS/giphy-downsized-large.gif">
+<img align="right" alt="Knight Roland" width="400" src="https://exitnerd.eu/wp-content/uploads/2023/06/knight-roland.gif.gif">
 
 - 🔭 I’m currently working on [Knight Roland](https://play.google.com/store/apps/details?id=com.WDDWSTUDIO.KnightRoland&gl=PL)
 
