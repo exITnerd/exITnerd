@@ -33,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=exitnerd&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="exitnerd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exitnerd&show_icons=true&theme=tokyonight&locale=en" alt="exitnerd" /></p>
-
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
