@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Unity, C, C++, C#**
 
-- 👯 I’m looking to collaborate on: **website development**
+- 👯 I’m looking to collaborate on: **website development (HTML, CSS, JS, WP)**
 
 - 🤝 I’m looking for help with: **(Nothing for now)**
 
