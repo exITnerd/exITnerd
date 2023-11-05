@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Unity, C, C++, C#**
 
-- 👯 I’m looking to collaborate on **(Nothing for now)**
+- 👯 I’m looking to collaborate on: **website development**
 
-- 🤝 I’m looking for help with **(Nothing for now)**
+- 🤝 I’m looking for help with: **(Nothing for now)**
 
 - 👨‍💻 All of my projects are available at [https://exitnerd.eu/](https://exitnerd.eu/)
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://exitnerd.eu/cv](https://exitnerd.eu/cv)
 
-- ⚡ Fun fact **In my free time I record technological videos for YouTube. I am also interested in Social Media, photography and drones.**
+- ⚡ Fun fact: **In my free time I record technological videos for YouTube. I am also interested in Social Media, photography and drones.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
