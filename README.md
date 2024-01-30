@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on [Knight Roland](https://play.google.com/store/apps/details?id=com.WDDWSTUDIO.KnightRoland&gl=PL)
 
+- 🕹 Play our new game: [Freddy Runner](https://play.google.com/store/apps/details?id=com.wddwsutdio.freddyrunbear&gl=PL) 1k+ downloads!
+
 - 🌱 I’m currently learning **Unity, C, C++, C#**
 
 - 👯 I’m looking to collaborate on: **website development (HTML, CSS, JS, WP)**
