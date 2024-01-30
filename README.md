@@ -4,13 +4,11 @@
 
 - 🔭 I’m currently working on [Knight Roland](https://play.google.com/store/apps/details?id=com.WDDWSTUDIO.KnightRoland&gl=PL)
 
-- 🕹 Play our new game: [Freddy Runner](https://play.google.com/store/apps/details?id=com.wddwsutdio.freddyrunbear&gl=PL) 1k+ downloads!
+- 🕹 Play our new game: [Freddy Runner](https://play.google.com/store/apps/details?id=com.wddwsutdio.freddyrunbear&gl=PL) with 1k+ downloads!
 
 - 🌱 I’m currently learning **Unity, C, C++, C#**
 
 - 👯 I’m looking to collaborate on: **website development (HTML, CSS, JS, WP)**
-
-- 🤝 I’m looking for help with: **(Nothing for now)**
 
 - 👨‍💻 All of my projects are available at [https://exitnerd.eu/](https://exitnerd.eu/)
 
